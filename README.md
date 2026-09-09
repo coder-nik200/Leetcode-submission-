@@ -160,3 +160,23 @@ Repeat
 One problem → One pattern → One step forward.
 
 ⭐ Star the repository if you find it useful.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+## Hash Table
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+<!---LeetCode Topics End-->
