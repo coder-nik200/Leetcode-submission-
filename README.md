@@ -169,6 +169,7 @@ One problem → One pattern → One step forward.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
@@ -180,6 +181,7 @@ One problem → One pattern → One step forward.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -192,6 +194,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -230,4 +233,16 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
