@@ -167,6 +167,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
@@ -236,6 +237,7 @@ One problem → One pattern → One step forward.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -245,4 +247,8 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
