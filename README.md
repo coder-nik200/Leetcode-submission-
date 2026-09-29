@@ -167,6 +167,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0136-single-number) |
@@ -219,6 +220,7 @@ One problem → One pattern → One step forward.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
