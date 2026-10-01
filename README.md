@@ -173,6 +173,7 @@ One problem → One pattern → One step forward.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
@@ -192,6 +193,7 @@ One problem → One pattern → One step forward.
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
@@ -276,4 +278,8 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
