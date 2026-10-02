@@ -169,6 +169,7 @@ One problem → One pattern → One step forward.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -234,6 +235,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
@@ -287,5 +289,6 @@ One problem → One pattern → One step forward.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
