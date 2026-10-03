@@ -240,6 +240,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0258-add-digits) |
