@@ -172,6 +172,7 @@ One problem → One pattern → One step forward.
 | [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +227,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
