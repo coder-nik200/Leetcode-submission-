@@ -4,10 +4,10 @@ public:
         int n = nums.size();
         int j = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
             if (nums[i] != nums[j]) {
+                nums[j + 1] = nums[i];
                 j++;
-                nums[j] = nums[i];
             }
         }
 
