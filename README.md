@@ -166,6 +166,7 @@ One problem → One pattern → One step forward.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -229,6 +230,7 @@ One problem → One pattern → One step forward.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -316,4 +318,8 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
