@@ -195,6 +195,7 @@ One problem → One pattern → One step forward.
 | [0905-sort-array-by-parity](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -328,8 +329,10 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
