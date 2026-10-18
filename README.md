@@ -194,6 +194,7 @@ One problem → One pattern → One step forward.
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0904-fruit-into-baskets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -294,6 +295,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -308,6 +310,7 @@ One problem → One pattern → One step forward.
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -341,4 +344,12 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
