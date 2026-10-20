@@ -211,6 +211,7 @@ One problem → One pattern → One step forward.
 | [0073-set-matrix-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
@@ -250,6 +251,7 @@ One problem → One pattern → One step forward.
 | [0031-next-permutation](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
@@ -362,4 +364,12 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
