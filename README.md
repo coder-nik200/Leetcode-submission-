@@ -209,6 +209,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0229-majority-element-ii) |
@@ -221,6 +222,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0076-minimum-window-substring) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
@@ -343,6 +345,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
