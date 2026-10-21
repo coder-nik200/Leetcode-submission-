@@ -261,6 +261,7 @@ One problem → One pattern → One step forward.
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
@@ -373,6 +374,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
