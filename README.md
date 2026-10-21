@@ -213,6 +213,7 @@ One problem → One pattern → One step forward.
 | [0076-minimum-window-substring](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
@@ -254,6 +255,7 @@ One problem → One pattern → One step forward.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
@@ -370,8 +372,10 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
