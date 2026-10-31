@@ -233,6 +233,7 @@ One problem → One pattern → One step forward.
 | [0015-3sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
@@ -256,6 +257,7 @@ One problem → One pattern → One step forward.
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
@@ -309,6 +311,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
@@ -381,6 +384,7 @@ One problem → One pattern → One step forward.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0237-delete-node-in-a-linked-list) |
@@ -392,4 +396,8 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
