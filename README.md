@@ -270,6 +270,7 @@ One problem → One pattern → One step forward.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
@@ -340,6 +341,7 @@ One problem → One pattern → One step forward.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
@@ -375,6 +377,7 @@ One problem → One pattern → One step forward.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
