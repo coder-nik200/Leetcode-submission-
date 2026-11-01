@@ -254,6 +254,7 @@ One problem → One pattern → One step forward.
 | [0027-remove-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
@@ -381,6 +382,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
