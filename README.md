@@ -262,6 +262,7 @@ One problem → One pattern → One step forward.
 | [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -349,6 +350,7 @@ One problem → One pattern → One step forward.
 | [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -391,6 +393,7 @@ One problem → One pattern → One step forward.
 | [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
@@ -404,4 +407,8 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
