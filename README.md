@@ -352,6 +352,7 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0206-reverse-linked-list) |
@@ -391,6 +392,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0002-add-two-numbers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0083-remove-duplicates-from-sorted-list) |
