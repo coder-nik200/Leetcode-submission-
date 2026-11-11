@@ -212,6 +212,7 @@ One problem → One pattern → One step forward.
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ One problem → One pattern → One step forward.
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Math
 |  |
 | ------- |
