@@ -199,6 +199,7 @@ One problem → One pattern → One step forward.
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -311,6 +312,7 @@ One problem → One pattern → One step forward.
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
