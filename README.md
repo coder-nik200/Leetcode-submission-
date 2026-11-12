@@ -299,6 +299,7 @@ One problem → One pattern → One step forward.
 | [0258-add-digits](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
