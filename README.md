@@ -166,6 +166,7 @@ One problem → One pattern → One step forward.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0016-3sum-closest) |
@@ -307,6 +308,7 @@ One problem → One pattern → One step forward.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0069-sqrtx) |
@@ -344,6 +346,7 @@ One problem → One pattern → One step forward.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
