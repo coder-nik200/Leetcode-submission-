@@ -217,6 +217,7 @@ One problem → One pattern → One step forward.
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+| [2643-row-with-maximum-ones](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2643-row-with-maximum-ones) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -380,6 +381,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2643-row-with-maximum-ones) |
 ## Recursion
 |  |
 | ------- |
