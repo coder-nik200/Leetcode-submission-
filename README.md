@@ -328,6 +328,7 @@ One problem → One pattern → One step forward.
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0875-koko-eating-bananas) |
@@ -504,4 +505,5 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
