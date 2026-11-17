@@ -307,6 +307,7 @@ One problem → One pattern → One step forward.
 | [0258-add-digits](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2235-add-two-integers) |
 ## Binary Search
@@ -330,6 +331,7 @@ One problem → One pattern → One step forward.
 | [0367-valid-perfect-square](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
