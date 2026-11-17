@@ -323,6 +323,7 @@ One problem → One pattern → One step forward.
 | [0209-minimum-size-subarray-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0410-split-array-largest-sum) |
@@ -497,4 +498,8 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
