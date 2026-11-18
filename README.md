@@ -212,6 +212,7 @@ One problem → One pattern → One step forward.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -240,6 +241,7 @@ One problem → One pattern → One step forward.
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -263,6 +265,7 @@ One problem → One pattern → One step forward.
 | [0922-sort-array-by-parity-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -294,6 +297,7 @@ One problem → One pattern → One step forward.
 | [0905-sort-array-by-parity](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -341,6 +345,7 @@ One problem → One pattern → One step forward.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1901-find-a-peak-element-ii) |
