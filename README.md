@@ -309,6 +309,7 @@ One problem → One pattern → One step forward.
 | [0007-reverse-integer](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
@@ -414,6 +415,7 @@ One problem → One pattern → One step forward.
 | [0021-merge-two-sorted-lists](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
