@@ -222,6 +222,7 @@ One problem → One pattern → One step forward.
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2643-row-with-maximum-ones) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
@@ -269,6 +270,7 @@ One problem → One pattern → One step forward.
 | [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -429,6 +431,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0011-container-with-most-water](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0410-split-array-largest-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sliding Window
 |  |
 | ------- |
