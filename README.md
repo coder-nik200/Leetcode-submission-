@@ -202,6 +202,7 @@ One problem → One pattern → One step forward.
 | [0410-split-array-largest-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0904-fruit-into-baskets) |
@@ -241,6 +242,7 @@ One problem → One pattern → One step forward.
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
@@ -478,6 +480,7 @@ One problem → One pattern → One step forward.
 | [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -508,6 +511,7 @@ One problem → One pattern → One step forward.
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -526,4 +530,8 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0278-first-bad-version](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
