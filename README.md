@@ -498,6 +498,7 @@ One problem → One pattern → One step forward.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
@@ -538,6 +539,7 @@ One problem → One pattern → One step forward.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -548,10 +550,12 @@ One problem → One pattern → One step forward.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
