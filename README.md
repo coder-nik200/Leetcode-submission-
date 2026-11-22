@@ -251,6 +251,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0076-minimum-window-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2418-sort-the-people) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sorting
