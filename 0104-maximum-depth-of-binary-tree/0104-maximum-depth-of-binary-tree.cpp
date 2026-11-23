@@ -13,31 +13,41 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
+        // Recursive solution:
         if (root == nullptr)
-            return {};
+            return 0;
 
-        queue<TreeNode*> q;
-        q.push(root);
-        int len = 0;
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
 
-        while (!q.empty()) {
-            int size = q.size();
+        return 1 + max(left, right);
 
-            for (int i = 0; i < size; i++) {
-                TreeNode* curr = q.front();
-                q.pop();
+        // Level ordering solution:
+        // if (root == nullptr)
+        //     return {};
 
-                if (curr->left != nullptr) {
-                    q.push(curr->left);
-                }
-                if (curr->right != nullptr) {
-                    q.push(curr->right);
-                }
-            }
+        // queue<TreeNode*> q;
+        // q.push(root);
+        // int len = 0;
 
-            len++;
-        }
+        // while (!q.empty()) {
+        //     int size = q.size();
 
-        return len;
+        //     for (int i = 0; i < size; i++) {
+        //         TreeNode* curr = q.front();
+        //         q.pop();
+
+        //         if (curr->left != nullptr) {
+        //             q.push(curr->left);
+        //         }
+        //         if (curr->right != nullptr) {
+        //             q.push(curr->right);
+        //         }
+        //     }
+
+        //     len++;
+        // }
+
+        // return len;
     }
 };
