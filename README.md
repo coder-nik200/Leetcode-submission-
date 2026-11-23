@@ -549,6 +549,7 @@ One problem → One pattern → One step forward.
 | [0226-invert-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -568,6 +569,7 @@ One problem → One pattern → One step forward.
 | [0226-invert-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -579,9 +581,11 @@ One problem → One pattern → One step forward.
 | [0226-invert-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
