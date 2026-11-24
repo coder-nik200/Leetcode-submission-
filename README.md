@@ -304,6 +304,7 @@ One problem → One pattern → One step forward.
 | [0922-sort-array-by-parity-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -485,6 +486,7 @@ One problem → One pattern → One step forward.
 | [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
