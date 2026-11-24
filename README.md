@@ -323,6 +323,7 @@ One problem → One pattern → One step forward.
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/coder-nik200/Leetcode-submission-/tree/master/2235-add-two-integers) |
 ## Binary Search
@@ -484,6 +485,7 @@ One problem → One pattern → One step forward.
 | [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
@@ -506,6 +508,7 @@ One problem → One pattern → One step forward.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/coder-nik200/Leetcode-submission-/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
