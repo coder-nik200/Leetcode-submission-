@@ -197,6 +197,7 @@ One problem → One pattern → One step forward.
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0410-split-array-largest-sum) |
@@ -297,6 +298,7 @@ One problem → One pattern → One step forward.
 | [0189-rotate-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0876-middle-of-the-linked-list) |
@@ -343,6 +345,7 @@ One problem → One pattern → One step forward.
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0367-valid-perfect-square) |
@@ -366,6 +369,7 @@ One problem → One pattern → One step forward.
 | [0136-single-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -500,6 +504,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -640,4 +645,8 @@ One problem → One pattern → One step forward.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
