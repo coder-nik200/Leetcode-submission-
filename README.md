@@ -182,6 +182,7 @@ One problem → One pattern → One step forward.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0136-single-number) |
@@ -385,6 +386,7 @@ One problem → One pattern → One step forward.
 | [0004-median-of-two-sorted-arrays](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0169-majority-element) |
@@ -563,6 +565,7 @@ One problem → One pattern → One step forward.
 | [0102-binary-tree-level-order-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0112-path-sum) |
@@ -597,6 +600,7 @@ One problem → One pattern → One step forward.
 | [0102-binary-tree-level-order-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0112-path-sum) |
@@ -644,6 +648,7 @@ One problem → One pattern → One step forward.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Pigeonhole Principle
 |  |
