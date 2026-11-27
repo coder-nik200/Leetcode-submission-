@@ -577,6 +577,7 @@ One problem → One pattern → One step forward.
 | [0199-binary-tree-right-side-view](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
@@ -612,6 +613,7 @@ One problem → One pattern → One step forward.
 | [0199-binary-tree-right-side-view](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
@@ -631,6 +633,7 @@ One problem → One pattern → One step forward.
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0687-longest-univalue-path) |
@@ -650,6 +653,7 @@ One problem → One pattern → One step forward.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/coder-nik200/Leetcode-submission-/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Pigeonhole Principle
 |  |
 | ------- |
